@@ -1,0 +1,50 @@
+[{
+    "id": 0,
+    "title": "KeyLord",
+    "description": "My first project written with Ruby. The project is a speed typing test.",
+    "tech": ["Ruby", "Git"],
+    "links": {
+        "github": "https://github.com/CoderCarl1/KeyLord"
+    }
+},
+{
+    "id": 1,
+    "title": "1st Portfolio",
+    "description": "My OG portfolio after learning a little bit of HTML & CSS.",
+    "tech": ["html", "CSS", "Git"],
+    "links": {
+        "github": "https://github.com/CoderCarl1/Portfolio",
+        "site": "https://codercarl1.github.io/Portfolio/"
+    }
+},
+{
+    "id": 2,
+    "title": "Tat2 Marketplace",
+    "description": "A 2 way marketplace built with Ruby on Rails.",
+    "tech": ["Authentication", "Validation", "Stripe payments", "PostgreSQL", "SCSS", "Git"],
+    "links": {
+        "github": "https://github.com/CoderCarl1/T2A2-Rails-Marketplace",
+        "site": "https://tat2-market.herokuapp.com/"
+    }
+},
+{
+    "id": 3,
+    "title": "MERN Stack assessment",
+    "description": "A meditation site built with the MERN stack",
+    "tech": ["MongoDB", "React", "Redux", "Express", "Node", "Authentication", "Stripe payments", "Jest for testing", "Git"],
+    "links": {
+        "github": "https://github.com/CoderCarl1/studious-fortnight",
+        "site": "https://meditation-chill.herokuapp.com/"
+    }
+},
+{
+    "id": 4,
+    "title": "This Site",
+    "description": "My Portfolio 2.0",
+    "tech": ["React", "Jest for testing", "Git"],
+    "links": {
+        "github": "https://github.com/CoderCarl1/studious-fortnight",
+        "site": "https://meditation-chill.herokuapp.com/"
+    }
+}
+]
